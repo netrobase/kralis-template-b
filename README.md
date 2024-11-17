@@ -1,4 +1,13 @@
+# Kralis Templates -Project B
 
+Kralis Templates is a collection of 26 school website templates designed for professional school websites. This repository is dedicated to Project B, also known as Bright Scholars.
+
+
+## Technologies Used
+
+* Nextjs
+* Typescript
+* Tailwindcss
 
 # USAGE
 
